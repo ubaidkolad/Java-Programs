@@ -1,0 +1,8 @@
+1. abstract is the class which is declared by abstract keyword.
+2. it is declared without an implementation.
+3. an abstract class may also have non-abstract methods.
+4. if you have even a single abstract method in your class then that particular class will also need to be abstracted.
+5. an abstract class may inherit a non-abstract class also.
+6. it is necessary for an abstract class to have a default constructor.
+7. you cannot create objects of abstract class.
+8. if you dont inherit methods in subclass then that subclass has to be abstract.
