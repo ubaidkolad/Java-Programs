@@ -35,8 +35,11 @@ class Program
         f.ten();
         f.ten();
         f.ten();
-        //f.ten();
+        f.ten();
+        f.ten();
+        f.ten();
         
+
         f.withdraw(200);
     }
 }
