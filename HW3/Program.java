@@ -29,7 +29,7 @@ class Program
        
        
         System.out.println();
-        FlexiAccount f = new FlexiAccount("Mustaqimm", 9867, 2000, "Flexi Deposit Account");
+        FlexiAccount f = new FlexiAccount(" Mustaqimm", 9867, 2000, "Flexi Deposit Account");
         f.display();
         f.deposit(1000);
         f.ten();
